@@ -1,7 +1,7 @@
 In the final tidy data set written to the file "step5_final_data_output.txt", there are 180 observations of below 68 columns with the data type and sample data contained in of each of the column.
 
 Regarding terms of summary choices and approach taken to produce the fina output file, it is described in README.md file in greater detail.
-
+# Below is a tabular representation of codebook of the data contained in the final output file
 ---
 Column name |             Data type | Sample data |
 -----------------|------------|----------------|
