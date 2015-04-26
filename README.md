@@ -9,7 +9,8 @@ output: html_document
 This markdown file explains how the run_analysis.R script works and how to run the script to generate the final output data file "step5_final_data_output.txt".
 
 # Setup
-Download the zipfile and extract to your working directory.
+Download below project's source data zipfile and extract to your working directory.
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Extracted directory name is "UCI HAR Dataset"
 
